@@ -2,6 +2,7 @@
 # The humans responsible & technology colophon
 
 Hi, I am modifying the file before rebase.
+Adding Important Notes on Git Stash.
 
 Doing some changes in Local.
 
