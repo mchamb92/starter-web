@@ -6,6 +6,7 @@ A lot of lectures are already submitted.
 
 ## Git and GitHub Training
 This is the famous and one of the best Training Course of DevOps.
+Adding Git rebase lectures and Git Advanced part. 
 
 ## Contribution
 Fork the repo and raise pull request for review.
