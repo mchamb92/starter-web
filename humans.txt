@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> Mustafa <twitter>
+    Mustafa
+    afatsum.mustafa@gmail.com
+    QA Engineer
 
 # THANKS
 
