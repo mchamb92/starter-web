@@ -5,7 +5,7 @@
 
     Mustafa
     afatsum.mustafa@gmail.com
-    QA Engineer
+    SDET
 
 # THANKS
 
@@ -16,3 +16,4 @@
     HTML5, CSS3, Angular
     jQuery, Modernizr
     Machine Learning, AWS, Google Cloud
+
